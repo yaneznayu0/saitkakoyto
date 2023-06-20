@@ -1,0 +1,35 @@
+h1{font: size 48px;
+color: rgba(0, 0, 0, 0.888);
+
+}
+img{
+    width: 400px;
+    border: radius 2px;
+}
+p{
+width: 500px;
+text-align: center;
+}
+h2{
+    color: rgba(0, 255, 255, 0.221);
+}
+p{
+    border: 5px;
+}
+p{
+    background-color: rgba(151, 203, 255, 0.442);
+}
+.card{
+    width: 500px;
+    background-color: rgba(131, 56, 202, 0.366);
+    border-radius: 20px;
+    padding: 30px;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+}
+p{
+}
